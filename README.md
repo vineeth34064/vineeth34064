@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi! I’m a Computer Science student at IIITDM Kurnool, passionate about machine learning, algorithms, and problem solving. I’ve solved 290+ LeetCode problems and enjoy building projects that apply data-driven techniques to real-world problems. Always learning, exploring, and improving.
+I am a Computer Science student at the Indian Institute of Information Technology, Design & Manufacturing (IIITDM) Kurnool, with a strong interest in machine learning, algorithms, and building real-world applications. I enjoy exploring how data can be used to understand patterns, make predictions, and solve meaningful problems. Over time, I’ve developed a solid foundation in programming and problem solving, which continues to shape the way I think and code.
 
+I actively practice Data Structures and Algorithms and have solved more than 290 problems on LeetCode. This journey has helped me improve my logical reasoning, analytical thinking, and ability to write clean and efficient code. I value learning through challenges, whether it’s optimizing an algorithm or understanding a difficult concept.
+
+Beyond programmingI enjoy working on hands-on machine learning projects. I’ve developed projects such as movie recommendation systems, sentiment analysis on reviews, and product analytics models. These projects help me connect theoretical concepts with practical implementations and deepen my understanding of how intelligent systems work.
+
+I continuously explore new tools, technologies, and ideas to grow as a developer. My goal is to build impactful projects, collaborate with passionate people, and contribute to solving real-world problems through technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetpolampalli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineethpolampali@gmail.com) 
