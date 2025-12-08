@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Computer Science student at the Indian Institute of Information Technology, Design & Manufacturing (IIITDM) Kurnool, with a strong interest in machine learning, algorithms, and building real-world applications. I enjoy exploring how data can be used to understand patterns, make predictions, and solve meaningful problems. Over time, I’ve developed a solid foundation in programming and problem solving, which continues to shape the way I think and code.
 
-I actively practice Data Structures and Algorithms and have solved more than 290 problems on LeetCode. This journey has helped me improve my logical reasoning, analytical thinking, and ability to write clean and efficient code. I value learning through challenges, whether it’s optimizing an algorithm or understanding a difficult concept.
+I actively practice Data Structures and Algorithms and have solved more than 300+ problems on LeetCode. This journey has helped me improve my logical reasoning, analytical thinking, and ability to write clean and efficient code. I value learning through challenges, whether it’s optimizing an algorithm or understanding a difficult concept.
 
 Beyond programmingI enjoy working on hands-on machine learning projects. I’ve developed projects such as movie recommendation systems, sentiment analysis on reviews, and product analytics models. These projects help me connect theoretical concepts with practical implementations and deepen my understanding of how intelligent systems work.
 
