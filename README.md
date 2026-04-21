@@ -91,11 +91,13 @@ I have experience leading projects involving hostel management systems, AI chatb
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/vineeth34064)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)]([https://leetcode.com/](https://leetcode.com/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+> This section updates automatically with a new developer quote each time the profile is refreshed.
 
 ### 🔝 Top Contributed Repo
 
