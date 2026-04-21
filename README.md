@@ -24,8 +24,10 @@ I have experience leading projects involving hostel management systems, AI chatb
 [![](https://visitcount.itsvg.in/api?id=vineeth34064\&icon=1\&color=4)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vineeth34064/vineeth34064/output/snake.svg" alt="Snake animation" />
 </div>
+
+> To make the snake animation reflect your actual commits, create a GitHub Action using the Platane/snk repository. The generated snake.svg file will then automatically update based on your contribution graph.
 
 ## 🏆 GitHub Trophies
 
