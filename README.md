@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Vineeth Ramayya Polampalli
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/35cbfea5-a520-494f-870e-ae47597df5b4" />
 
 **B.Tech Student at Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool, Andhra Pradesh | Full Stack Developer | Machine Learning Enthusiast | Data Analytics Learner**
 
