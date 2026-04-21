@@ -27,34 +27,6 @@ I have experience leading projects involving hostel management systems, AI chatb
   <img src="https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vineeth34064
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Add this workflow inside `.github/workflows/snake.yml` in your profile repository. After the action runs once, the snake animation will start appearing automatically.
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=vineeth34064\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
