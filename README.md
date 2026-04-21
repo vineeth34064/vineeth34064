@@ -24,10 +24,36 @@ I have experience leading projects involving hostel management systems, AI chatb
 [![](https://visitcount.itsvg.in/api?id=vineeth34064\&icon=1\&color=4)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vineeth34064/vineeth34064/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> To make the snake animation reflect your actual commits, create a GitHub Action using the Platane/snk repository. The generated snake.svg file will then automatically update based on your contribution graph.
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vineeth34064
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Add this workflow inside `.github/workflows/snake.yml` in your profile repository. After the action runs once, the snake animation will start appearing automatically.
 
 ## 🏆 GitHub Trophies
 
