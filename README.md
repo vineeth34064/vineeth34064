@@ -8,7 +8,6 @@
 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Data Analytics Learner  
 
 📧 **Email:** vineethpolampali@gmail.com  
-
 ---
 
 ## 🚀 About Me
