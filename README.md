@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vineeth Ramayya Polampalli
 ---
 
-<img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/3d54e40d-5112-4a52-8b35-191c887b529a" />
+<img width="612" height="344" alt="image" src="https://github.com/user-attachments/assets/bb57e931-38f6-4da3-93ba-cd22401563e7" />
 
 ---
 
