@@ -105,36 +105,69 @@ I am a third-year B.Tech student passionate about **software engineering, machin
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### 🏨 Hostel Administration System
 🔗 https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM  
 🌐 https://hostel-administration-system-fgvf.onrender.com/
 
-- Built a **full-stack hostel management system**
-- Features:
-  - Room allocation
-  - Complaint management
-  - Attendance tracking
-  - Fee management
-  - Admin dashboard
-- 🤖 Integrated **AI chatbot for instant support**
-- 🛠️ Tech: MERN Stack + REST APIs
+- Built a **scalable full-stack hostel management system** for students and administrators  
+- 👥 Led development as a **team project**, focusing on real-world usability and system design  
+
+### 🚀 Core Features
+
+#### 🏠 Room & Hostel Management
+- Room allocation & deallocation system  
+- Real-time room availability tracking  
+- Hostel block and room-wise management  
+
+#### 👨‍🎓 Student Management
+- Student registration & profile management  
+- Secure login & authentication system  
+- Role-based access (Admin / Student)  
+
+#### 📢 Complaint Management System
+- Students can raise complaints/issues  
+- Admin dashboard to track & resolve complaints  
+- Status tracking (Pending / In Progress / Resolved)  
+
+#### 📅 Attendance Management
+- Track student attendance digitally  
+- Admin can monitor and manage records  
+
+#### 💳 Fee Management System
+- Fee tracking and payment records  
+- Status monitoring (Paid / Pending)  
+- Transparent fee structure handling  
+
+#### 📊 Admin Dashboard
+- Centralized dashboard for system control  
+- Manage students, rooms, complaints, and fees  
+- View analytics and system overview  
+
+#### 🤖 AI Chatbot Integration
+- Instant support for student queries  
+- Improved user experience with automated responses  
+
+#### 🔐 Security & Backend
+- Authentication & authorization system  
+- REST API-based backend architecture  
+- Secure data handling with MongoDB  
 
 ---
 
-### 🤖 AI Chatbot Project
-- Developed chatbot for **user queries & interaction**
-- Focused on **UX + conversational flow**
-- Applied **NLP concepts**
+### 🛠️ Tech Stack
+- **Frontend:** ReactJS  
+- **Backend:** Node.js, ExpressJS  
+- **Database:** MongoDB  
+- **APIs:** REST APIs  
 
 ---
 
-### 📊 Data Analytics Projects
-- Data cleaning & preprocessing  
-- Visualization dashboards  
-- Extracted **actionable insights from datasets**
-
----
-
+### 🎯 Key Impact
+- Simplified hostel operations and reduced manual work  
+- Improved communication between students and admin  
+- Provided **real-time system access and transparency**  
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
