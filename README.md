@@ -40,6 +40,11 @@ I am a third-year B.Tech student passionate about **software engineering, machin
 
 ---
 
+<div align="center"> <img src="https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
+
+---
+
+
 # 💻 Tech Stack:
 
 ## 🧑‍💻 Languages
