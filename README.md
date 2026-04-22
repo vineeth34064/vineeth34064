@@ -176,6 +176,15 @@ I am a third-year B.Tech student passionate about **software engineering, machin
 
 ---
 
+### 🔝 Top Contributed Repo #### Hostel Administration System * Team Lead of a full-stack hostel management platform * Features include room allocation, complaint tracking, fee management, attendance, and admin dashboard * Integrated AI chatbot for quick support and assistance * Built using React, Node.js, Express.js, MongoDB, and modern UI components * GitHub Repository: [https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM](https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM) * Live Demo: [https://hostel-administration-system-fgvf.onrender.com/](https://hostel-administration-system-fgvf.onrender.com/)
+
+
+---
+
+### ✍️ Daily Developer Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
 ## ⚡ Fun Fact
 
 I enjoy transforming ideas into **real-world impactful applications** 🚀
