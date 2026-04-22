@@ -2,7 +2,9 @@
 
 <img width="800" height="534" alt="banner" src="https://github.com/user-attachments/assets/0301da3c-026c-49ce-bec3-cf352a54cf05" />
 
-🎓 **currently B.Tech in CSE @ IIITDM Kurnool**  
+---
+
+🎓 **currently pursuing B.Tech in Computer Science Engineering at Indian Institute Of Information Technology Design and Manufacturing, Kurnool,Andrapradesh.**  
 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Data Analytics Learner  
 
 📧 **Email:** vineethpolampali@gmail.com  
