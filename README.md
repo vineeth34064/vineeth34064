@@ -7,7 +7,7 @@
 
 ## 🎓 currently pursuing B.Tech in Computer Science Engineering at Indian Institute Of Information Technology Design and Manufacturing, Kurnool, Andrapradesh
 
-### 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Data Analytics Learner
+### 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Problem Solving...
 
 ### 📧 Email: [vineethpolampali@gmail.com](mailto:vineethpolampali@gmail.com)
 
