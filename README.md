@@ -1,231 +1,238 @@
-# 💫 Hi 👋, I'm Vineeth Ramayya Polampalli
----
+# Vineeth Ramayya Polampalli
 
-<img width="2060" height="763" alt="image" src="https://github.com/user-attachments/assets/c059fa66-4a33-4b56-ade2-223f8d954e7c" />
+### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 
----
+\<p align="center">   \<img src="[https://github.com/user-attachments/assets/c059fa66-4a33-4b56-ade2-223f8d954e7c](https://github.com/user-attachments/assets/c059fa66-4a33-4b56-ade2-223f8d954e7c)" width="100%" alt="Profile Banner"/> \</p>
 
-## 🎓 currently pursuing B.Tech in Computer Science Engineering at Indian Institute Of Information Technology Design and Manufacturing, Kurnool, Andrapradesh
-
-### 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Problem Solving...
-
-### 📧 Email: [vineethpolampali@gmail.com](mailto:vineethpolampali@gmail.com)
+\<p align="center">   \<a href="[https://github.com/vineeth34064](https://github.com/vineeth34064)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)"/>   \</a>   \<a href="[https://www.linkedin.com/in/vineet-polampalli-089501281/](https://www.linkedin.com/in/vineet-polampalli-089501281/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)"/>   \</a>   \<a href="[https://leetcode.com/u/vineethvguhhih/](https://leetcode.com/u/vineethvguhhih/)">     \<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=black)"/>   \</a>   \<a href="mailto\:vineethpolampali\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)"/>   \</a> \</p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-### I am a third-year B.Tech student passionate about **software engineering, machine learning, and data analytics**.
+I'm a third-year B.Tech Computer Science and Engineering student at the **Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool, Andhra Pradesh**.
 
-* 💻 Building **scalable full-stack applications**
-* 🤖 Developing **AI-powered systems**
-* 📊 Solving problems using **data-driven approaches**
-* 👥 Leading teams to deliver **real-world impactful solutions**
+I enjoy building software products, exploring artificial intelligence, and solving complex technical problems. My interests lie at the intersection of software engineering, machine learning, and practical problem-solving.
 
----
+- Building full-stack applications using modern web technologies.
+- Exploring Machine Learning, Deep Learning, NLP, and Generative AI.
+- Solving 360+ Data Structures and Algorithms problems.
+- Developing AI-powered applications and intelligent systems.
+- Collaborating with teams to turn ideas into functional products.
 
-# 🏆 Key Highlights
-
-* 👨‍💻 Solved **360+ DSA problems**
-* 🚀 Built **full-stack production-level applications**
-* 🤖 Integrated **AI chatbot systems**
-* 👥 Led **team-based projects**
-* 📊 Worked on **data analytics dashboards**
+**Current Focus:** Advanced MERN Stack, Machine Learning, Agentic AI, Data Analytics, and System Design.
 
 ---
 
-# 🔭 Current Focus
+## Technical Skills
 
-* 🚀 Advanced MERN Stack Development
-* 🤖 Machine Learning & Deep Learning
-* 📊 Data Analytics
-* 🌍 Open Source Contributions
-* ⚙️ System Design & Scalable Backend
+### Programming Languages
 
----
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=c,cpp,python,java,javascript](https://skillicons.dev/icons?i=c,cpp,python,java,javascript)" />
+\</p>
 
-<div align="center"> 
-<img src="https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
-</div>
+### Frontend Development
 
----
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react,tailwind](https://skillicons.dev/icons?i=html,css,react,tailwind)" />
+\</p>
 
-# 💻 Tech Stack
+### Backend Development
 
-## 🧑‍💻 Languages
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" />
+\</p>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+### Databases
 
----
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" />
+\</p>
 
-## 🌐 Web Development
+### AI / Machine Learning / Data Science
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,tensorflow,opencv](https://skillicons.dev/icons?i=python,tensorflow,opencv)" />
+\</p>
 
----
+**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow.
 
-## 🗄️ Databases
+**Areas of Interest:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, Data Analysis, and Graph Neural Networks.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+### Developer Tools & Platforms
 
----
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)" />
+\</p>
 
-## 🤖 AI / ML / Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=plotly\&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
+**Other Technical Interests:** REST APIs, Object-Oriented Programming, RISC-V Architecture, and Software Development.
 
 ---
 
-## 🧰 Tools & Platforms
+## Featured Projects
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+### 1. Hostel Administration System
 
----
+**A Full-Stack Hostel Management Platform**
 
-## ⚙️ Others
+A comprehensive web application designed to digitize hostel administration and improve communication between students and administrators.
 
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
+**Key Features**
 
----
+- Student registration and profile management.
+- Room allocation and availability tracking.
+- Complaint registration and resolution tracking.
+- Digital attendance management.
+- Fee management and payment status tracking.
+- Role-based authentication for administrators and students.
+- Centralized administrative dashboard.
+- Integrated AI chatbot for student assistance.
 
-# 📊 GitHub Stats
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, REST APIs.
 
-![](https://github-readme-stats.vercel.app/api?username=vineeth34064\&theme=tokyonight\&show_icons=true)
+**Role:** Team Lead – Coordinated development and contributed to application architecture and system integration.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth34064\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth34064\&layout=compact\&theme=tokyonight)
-
----
-
-# 🚀 Featured Projects
-
-## 🏨 Hostel Administration System
-
-🔗 https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM
-🌐 https://hostel-administration-system-fgvf.onrender.com/
-
-### Built a **scalable full-stack hostel management system** for students and administrators
-
-### 👥 Led development as a **team project**, focusing on real-world usability and system design
+\<p>
+&#x20; \<a href="[https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM](https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM)">
+&#x20;   \<img src="[https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge\&logo=github)"/>
+&#x20; \</a>
+&#x20; \<a href="[https://hostel-administration-system-fgvf.onrender.com/](https://hostel-administration-system-fgvf.onrender.com/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge](https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge)"/>
+&#x20; \</a>
+\</p>
 
 ---
 
-## 🚀 Core Features
+### 2. DropDress – AI-Powered Smart Wardrobe
 
-### 🏠 Room & Hostel Management
+An AI-powered wardrobe management concept that combines intelligent outfit recommendations, virtual try-on, garment tracking, and smart wardrobe automation.
 
-* Room allocation & deallocation system
-* Real-time room availability tracking
-* Hostel block and room-wise management
+**Key Features**
 
-### 👨‍🎓 Student Management
+- AI-based outfit recommendations.
+- Virtual Try-On (VTON).
+- Garment status and wardrobe tracking.
+- Laundry scheduling and clothing management.
+- Interactive wardrobe dashboard.
+- ESP32-based hardware orchestration concept.
 
-* Student registration & profile management
-* Secure login & authentication system
-* Role-based access (Admin / Student)
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JavaScript, AI/ML, ESP32.
 
-### 📢 Complaint Management System
-
-* Students can raise complaints/issues
-* Admin dashboard to track & resolve complaints
-* Status tracking (Pending / In Progress / Resolved)
-
-### 📅 Attendance Management
-
-* Track student attendance digitally
-* Admin can monitor and manage records
-
-### 💳 Fee Management System
-
-* Fee tracking and payment records
-* Status monitoring (Paid / Pending)
-* Transparent fee structure handling
-
-### 📊 Admin Dashboard
-
-* Centralized dashboard for system control
-* Manage students, rooms, complaints, and fees
-* View analytics and system overview
-
-### 🤖 AI Chatbot Integration
-
-* Instant support for student queries
-* Improved user experience with automated responses
-
-### 🔐 Security & Backend
-
-* Authentication & authorization system
-* REST API-based backend architecture
-* Secure data handling with MongoDB
+\<p>
+&#x20; \<a href="[https://github.com/vineeth34064/DROPDRESS](https://github.com/vineeth34064/DROPDRESS)">
+&#x20;   \<img src="[https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge\&logo=github)"/>
+&#x20; \</a>
+&#x20; \<a href="[https://dropdress-neural.vercel.app/](https://dropdress-neural.vercel.app/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge](https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge)"/>
+&#x20; \</a>
+\</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 3. SkillSwap – Peer-to-Peer Skill Exchange
 
-* **Frontend:** ReactJS
-* **Backend:** Node.js, ExpressJS
-* **Database:** MongoDB
-* **APIs:** REST APIs
+A platform that enables individuals to exchange knowledge and learn new skills through a time-credit-based system without monetary transactions.
 
----
+**Key Features**
 
-## 🎯 Key Impact
+- Skill sharing and discovery.
+- Peer-to-peer learning.
+- Time-based skill exchange concept.
+- Collaborative learning environment.
 
-* Simplified hostel operations and reduced manual work
-* Improved communication between students and admin
-* Provided **real-time system access and transparency**
+**Tagline:** Exchange Skills, Not Money.
 
----
+**Tech Stack:** React.js, JavaScript, HTML, CSS.
 
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/vineeth34064)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)
+\<p>
+&#x20; \<a href="[https://skillswap-vineet.netlify.app/](https://skillswap-vineet.netlify.app/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge](https://img.shields.io/badge/Live%20Demo-Visit-2EA44F?style=for-the-badge)"/>
+&#x20; \</a>
+\</p>
 
 ---
 
-# 🔝 Top Contributed Repo
+### 4. GTE-PPIS-Gated – Protein–Protein Interaction Site Prediction
 
-## Hostel Administration System
+A research-oriented deep learning project focused on predicting protein–protein interaction sites using graph-based learning techniques.
 
-* Team Lead of a full-stack hostel management platform
-* Features include room allocation, complaint tracking, fee management, attendance, and admin dashboard
-* Integrated AI chatbot for quick support and assistance
-* Built using React, Node.js, Express.js, MongoDB, and modern UI components
-* GitHub Repository: https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM
-* Live Demo: https://hostel-administration-system-fgvf.onrender.com/
+**Key Highlights**
 
----
+- Implementation of a gated variant of the GTE-PPIS architecture.
+- Exploration of graph neural networks.
+- Model training and evaluation.
+- Approximately 84.5% accuracy in reported experiments.
 
-# ✍️ Daily Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+**Tech Stack:** Python, Deep Learning, Graph Neural Networks, DGL.
 
 ---
 
-# ⚡ Fun Fact
+## Problem Solving
 
-### I enjoy transforming ideas into **real-world impactful applications** 🚀
+I actively practice Data Structures and Algorithms to improve my computational thinking, algorithmic efficiency, and problem-solving skills.
+
+- 360+ problems solved across coding platforms.
+- Experience with arrays, strings, hashing, recursion, binary search, sliding window, trees, and graphs.
+- Focus on writing efficient and optimized solutions.
+
+\<p align="center">
+&#x20; \<a href="[https://leetcode.com/u/vineethvguhhih/](https://leetcode.com/u/vineethvguhhih/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)"/>
+&#x20; \</a>
+\</p>
+
+---
+
+## GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=vineeth34064&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=vineeth34064\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+&#x20; \<img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=vineeth34064&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=vineeth34064\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth34064&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth34064\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+---
+
+## Contribution Activity
+
+\<p align="center">
+&#x20; \<img src="[https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg](https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake Animation" width="100%"/>
+\</p>
+
+---
+
+## Certifications & Learning
+
+- Deep Learning for Natural Language Processing – NPTEL.
+- Generative AI for Computer Vision – NPTEL.
+- Introduction to Large Language Models – NPTEL.
+- Introduction to Data Science – Infosys Springboard.
+- Introduction to Artificial Intelligence – Infosys Springboard.
+- C Programming – Spoken Tutorial, IIT Bombay.
+- Python Programming – Spoken Tutorial, IIT Bombay.
+
+---
+
+## Let's Connect
+
+I'm interested in collaborating on software development, AI/ML applications, open-source projects, and innovative technology solutions.
+
+\<p align="center">
+&#x20; \<a href="mailto\:vineethpolampali\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/vineet-polampalli-089501281/](https://www.linkedin.com/in/vineet-polampalli-089501281/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/vineeth34064](https://github.com/vineeth34064)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
+&#x20; \</a>
+\</p>
+
+\<p align="center">
+&#x20; \<i>"Building ideas into products, one line of code at a time."\</i>
+\</p>
