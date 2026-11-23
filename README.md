@@ -1,169 +1,231 @@
-# Vineeth Ramayya Polampalli
+# 💫 Hi 👋, I'm Vineeth Ramayya Polampalli
+---
 
-**Software Engineer | Full-Stack Development | Applied AI & Machine Learning**
-
-[GitHub](https://github.com/vineeth34064) · [LinkedIn](https://www.linkedin.com/in/vineet-polampalli-089501281/) · [LeetCode](https://leetcode.com/u/vineethvguhhih/) · [Email](mailto:vineethpolampali@gmail.com)
+<img width="2060" height="763" alt="image" src="https://github.com/user-attachments/assets/c059fa66-4a33-4b56-ade2-223f8d954e7c" />
 
 ---
 
-## Profile
+## 🎓 currently pursuing B.Tech in Computer Science Engineering at Indian Institute Of Information Technology Design and Manufacturing, Kurnool, Andrapradesh
 
-Computer Science undergraduate at **IIITDM Kurnool**, focused on software engineering, full-stack development, and applied artificial intelligence.
+### 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast | 📊 Problem Solving...
 
-I build software applications that combine practical engineering with intelligent systems. My experience includes developing full-stack platforms, integrating AI-powered features, implementing machine learning models, and working with graph-based deep learning architectures.
-
-I am particularly interested in backend engineering, application architecture, machine learning systems, and building technology that addresses real-world problems.
-
-**Current focus:** Advanced backend development, system design, machine learning, LLM applications, and agentic AI.
+### 📧 Email: [vineethpolampali@gmail.com](mailto:vineethpolampali@gmail.com)
 
 ---
 
-## Engineering Capabilities
+# 🚀 About Me
 
-| Domain | Technologies |
-|---|---|
-| Programming | C, C++, Python, Java, JavaScript |
-| Frontend | HTML, CSS, React.js, Tailwind CSS |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases | MongoDB, MySQL, Firebase |
-| Machine Learning | Scikit-learn, TensorFlow |
-| Data Science | NumPy, Pandas, Matplotlib |
-| Computer Vision | OpenCV |
-| Developer Tools | Git, GitHub, Linux, Postman, VS Code |
-| Other | DGL, RISC-V, Figma |
+### I am a third-year B.Tech student passionate about **software engineering, machine learning, and data analytics**.
 
-**Core concepts:** Data Structures & Algorithms, Object-Oriented Programming, Database Management, API Development, Debugging, Software Development Life Cycle.
+* 💻 Building **scalable full-stack applications**
+* 🤖 Developing **AI-powered systems**
+* 📊 Solving problems using **data-driven approaches**
+* 👥 Leading teams to deliver **real-world impactful solutions**
 
 ---
 
-## Selected Engineering Projects
+# 🏆 Key Highlights
 
-### 01. Hostel Administration System
-
-**Full-Stack Application | Team Lead**
-
-A centralized hostel management platform designed to digitize administrative workflows and improve communication between students and hostel administrators.
-
-**Engineering scope**
-- Developed student registration and profile management workflows.
-- Implemented room allocation and availability management.
-- Built complaint registration and resolution tracking.
-- Integrated attendance and fee management modules.
-- Implemented role-based authentication for students and administrators.
-- Developed an administrative dashboard for centralized operations.
-- Integrated an AI chatbot for automated student assistance.
-
-**Technology stack:** React.js, Node.js, Express.js, MongoDB, REST APIs.
-
-**Contribution:** Team leadership, application development, backend integration, and coordination of project development.
-
-**Resources:** [Source Code](https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM) · [Live Application](https://hostel-administration-system-fgvf.onrender.com/)
+* 👨‍💻 Solved **360+ DSA problems**
+* 🚀 Built **full-stack production-level applications**
+* 🤖 Integrated **AI chatbot systems**
+* 👥 Led **team-based projects**
+* 📊 Worked on **data analytics dashboards**
 
 ---
 
-### 02. DropDress
+# 🔭 Current Focus
 
-**AI-Powered Smart Wardrobe Management System**
-
-An intelligent wardrobe management platform combining AI-based outfit recommendations, virtual try-on, garment tracking, and smart wardrobe automation.
-
-**Engineering scope**
-- AI-powered outfit recommendation functionality.
-- Virtual Try-On (VTON) integration.
-- Garment tracking and clothing status management.
-- Laundry scheduling and wardrobe management.
-- Interactive dashboard for wardrobe operations.
-- ESP32-based hardware orchestration architecture concept.
-
-**Technology stack:** React.js, Node.js, Express.js, MongoDB, JavaScript, AI/ML, ESP32.
-
-**Resources:** [Source Code](https://github.com/vineeth34064/DROPDRESS) · [Live Application](https://dropdress-neural.vercel.app/)
+* 🚀 Advanced MERN Stack Development
+* 🤖 Machine Learning & Deep Learning
+* 📊 Data Analytics
+* 🌍 Open Source Contributions
+* ⚙️ System Design & Scalable Backend
 
 ---
 
-### 03. GTE-PPIS-Gated
-
-**Graph-Based Deep Learning | Research Project**
-
-Implemented a gated variant of the GTE-PPIS architecture for protein-protein interaction site prediction.
-
-**Engineering scope**
-- Worked with graph-based deep learning techniques.
-- Explored gated architectures for protein interaction prediction.
-- Implemented model training and evaluation workflows.
-- Achieved approximately 84.5% accuracy in reported experiments.
-
-**Technology stack:** Python, Deep Learning, Graph Neural Networks, DGL.
+<div align="center"> 
+<img src="https://github.com/vineeth34064/vineeth34064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
+</div>
 
 ---
 
-### 04. SkillSwap
+# 💻 Tech Stack
 
-**Peer-to-Peer Skill Exchange Platform**
+## 🧑‍💻 Languages
 
-A platform designed to facilitate knowledge sharing through a time-credit-based skill exchange model, allowing individuals to exchange skills without direct monetary transactions.
-
-**Engineering scope**
-- Skill discovery and sharing.
-- Peer-to-peer learning workflows.
-- Time-credit-based exchange concept.
-- Collaborative learning experience.
-
-**Technology stack:** React.js, JavaScript, HTML, CSS.
-
-**Resources:** [Live Application](https://skillswap-vineet.netlify.app/)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
 ---
 
-## Problem Solving
+## 🌐 Web Development
 
-Consistent practice of Data Structures and Algorithms to strengthen algorithmic thinking, computational problem-solving, and code optimization.
-
-- 360+ problems solved across coding platforms.
-- Experience with arrays, strings, hashing, recursion, binary search, sliding window, trees, and graphs.
-- Focus on algorithmic complexity and efficient implementations.
-
-**Coding Profile:** [LeetCode](https://leetcode.com/u/vineethvguhhih/)
-
----
-
-## Technical Learning & Certifications
-
-- Deep Learning for Natural Language Processing — NPTEL.
-- Generative AI for Computer Vision — NPTEL.
-- Introduction to Large Language Models — NPTEL.
-- Introduction to Data Science — Infosys Springboard.
-- Introduction to Artificial Intelligence — Infosys Springboard.
-- C Programming — Spoken Tutorial, IIT Bombay.
-- Python Programming — Spoken Tutorial, IIT Bombay.
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 
 ---
 
-## GitHub Activity
+## 🗄️ Databases
 
-**GitHub Overview**
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vineeth34064&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-
-**Contribution Streak**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineeth34064&theme=default&hide_border=true)
-
-**Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth34064&layout=compact&theme=default&hide_border=true)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
 
 ---
 
-## Connect
+## 🤖 AI / ML / Data
 
-Interested in software engineering, AI/ML, technical collaboration, and opportunities to build impactful technology.
-
-- Email: [vineethpolampali@gmail.com](mailto:vineethpolampali@gmail.com)
-- LinkedIn: [Vineeth Ramayya Polampalli](https://www.linkedin.com/in/vineet-polampalli-089501281/)
-- GitHub: [vineeth34064](https://github.com/vineeth34064)
-- LeetCode: [vineethvguhhih](https://leetcode.com/u/vineethvguhhih/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=plotly\&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
 
 ---
 
-*Engineering practical solutions through software, data, and intelligent systems.*
+## 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## ⚙️ Others
+
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vineeth34064\&theme=tokyonight\&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth34064\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth34064\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Hostel Administration System
+
+🔗 https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM
+🌐 https://hostel-administration-system-fgvf.onrender.com/
+
+### Built a **scalable full-stack hostel management system** for students and administrators
+
+### 👥 Led development as a **team project**, focusing on real-world usability and system design
+
+---
+
+## 🚀 Core Features
+
+### 🏠 Room & Hostel Management
+
+* Room allocation & deallocation system
+* Real-time room availability tracking
+* Hostel block and room-wise management
+
+### 👨‍🎓 Student Management
+
+* Student registration & profile management
+* Secure login & authentication system
+* Role-based access (Admin / Student)
+
+### 📢 Complaint Management System
+
+* Students can raise complaints/issues
+* Admin dashboard to track & resolve complaints
+* Status tracking (Pending / In Progress / Resolved)
+
+### 📅 Attendance Management
+
+* Track student attendance digitally
+* Admin can monitor and manage records
+
+### 💳 Fee Management System
+
+* Fee tracking and payment records
+* Status monitoring (Paid / Pending)
+* Transparent fee structure handling
+
+### 📊 Admin Dashboard
+
+* Centralized dashboard for system control
+* Manage students, rooms, complaints, and fees
+* View analytics and system overview
+
+### 🤖 AI Chatbot Integration
+
+* Instant support for student queries
+* Improved user experience with automated responses
+
+### 🔐 Security & Backend
+
+* Authentication & authorization system
+* REST API-based backend architecture
+* Secure data handling with MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** ReactJS
+* **Backend:** Node.js, ExpressJS
+* **Database:** MongoDB
+* **APIs:** REST APIs
+
+---
+
+## 🎯 Key Impact
+
+* Simplified hostel operations and reduced manual work
+* Improved communication between students and admin
+* Provided **real-time system access and transparency**
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/vineeth34064)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)
+
+---
+
+# 🔝 Top Contributed Repo
+
+## Hostel Administration System
+
+* Team Lead of a full-stack hostel management platform
+* Features include room allocation, complaint tracking, fee management, attendance, and admin dashboard
+* Integrated AI chatbot for quick support and assistance
+* Built using React, Node.js, Express.js, MongoDB, and modern UI components
+* GitHub Repository: https://github.com/vineeth34064/HOSTEL-ADMINISTRATION-SYSTEM
+* Live Demo: https://hostel-administration-system-fgvf.onrender.com/
+
+---
+
+# ✍️ Daily Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# ⚡ Fun Fact
+
+### I enjoy transforming ideas into **real-world impactful applications** 🚀
